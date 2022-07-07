@@ -128,7 +128,7 @@ body {
 .container p {
   font-size: 50px;
   padding: 0.3rem;
-  font-weight: solid;
+  font-weight: bold;
   letter-spacing: 1px;
   text-align: center;
   overflow: hidden;
